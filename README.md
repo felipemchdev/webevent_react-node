@@ -1,7 +1,7 @@
 ---
 # 🌐 Web Event React + Node
----
-## Características
+
+## Características:
 - Frontend desenvolvido com React e TypeScript
 - Back-End desenvolvido com Next.js e Node.js
 - Estilização com Tailwind
