@@ -8,20 +8,22 @@
 
 ---
 
-## Requisitos
+## Requisitos:
 - Node.js 14+  
 - npm ou yarn
 - Tailwind
   
 ---
 
-## Instalação
+## Instalação:
 
 ### Clone este repositório:
 ```bash
 git clone https://github.com/felipemchdev/webevent_react-node.git
 cd webevent_react-node
 ```
+### Instale as dependências:
+
 ```bash
 pnpm install
 # ou
@@ -29,6 +31,7 @@ npm install
 # ou
 yarn install
 ```
+### Inicie o site localmente:
 
 ```bash
 pnpm dev
@@ -38,6 +41,6 @@ npm run dev
 yarn dev
 ```
 
-## Acessar o site
+## Acessar o site:
 
 Coloque ```localhost:5000``` no navegador !
